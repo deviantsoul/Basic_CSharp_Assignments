@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\While Assignment\While Assignment\bin\Debug\While Assignment.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\While Assignment\While Assignment\bin\Debug\While Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\While Assignment\While Assignment\bin\Debug\While Assignment.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\While Assignment\While Assignment\obj\Debug\While Assignment.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\While Assignment\While Assignment\obj\Debug\While Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\While Assignment\While Assignment\obj\Debug\While Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\While Assignment\While Assignment\obj\Debug\While Assignment.pdb

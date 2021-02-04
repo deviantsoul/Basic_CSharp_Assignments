@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Income Comparison Operators\Income Comparison Operators\obj\Debug\Income Comparison Operators.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Income Comparison Operators\Income Comparison Operators\obj\Debug\Income Comparison Operators.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Income Comparison Operators\Income Comparison Operators\bin\Debug\Income Comparison Operators.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Income Comparison Operators\Income Comparison Operators\bin\Debug\Income Comparison Operators.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Income Comparison Operators\Income Comparison Operators\bin\Debug\Income Comparison Operators.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Income Comparison Operators\Income Comparison Operators\obj\Debug\Income Comparison Operators.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Income Comparison Operators\Income Comparison Operators\obj\Debug\Income Comparison Operators.pdb

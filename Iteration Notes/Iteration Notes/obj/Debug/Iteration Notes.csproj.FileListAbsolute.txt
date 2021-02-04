@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Iteration Notes\Iteration Notes\bin\Debug\Iteration Notes.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Iteration Notes\Iteration Notes\bin\Debug\Iteration Notes.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Iteration Notes\Iteration Notes\bin\Debug\Iteration Notes.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Iteration Notes\Iteration Notes\obj\Debug\Iteration Notes.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Iteration Notes\Iteration Notes\obj\Debug\Iteration Notes.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Iteration Notes\Iteration Notes\obj\Debug\Iteration Notes.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Iteration Notes\Iteration Notes\obj\Debug\Iteration Notes.pdb

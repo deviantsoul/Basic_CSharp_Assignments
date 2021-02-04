@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Notes From Videos\Notes From Videos\obj\Debug\Notes From Videos.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Notes From Videos\Notes From Videos\obj\Debug\Notes From Videos.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Notes From Videos\Notes From Videos\bin\Debug\Notes From Videos.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Notes From Videos\Notes From Videos\bin\Debug\Notes From Videos.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Notes From Videos\Notes From Videos\bin\Debug\Notes From Videos.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Notes From Videos\Notes From Videos\obj\Debug\Notes From Videos.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Notes From Videos\Notes From Videos\obj\Debug\Notes From Videos.pdb

@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\String Assignment\String Assignment\bin\Debug\String Assignment.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\String Assignment\String Assignment\bin\Debug\String Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\String Assignment\String Assignment\bin\Debug\String Assignment.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\String Assignment\String Assignment\obj\Debug\String Assignment.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\String Assignment\String Assignment\obj\Debug\String Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\String Assignment\String Assignment\obj\Debug\String Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\String Assignment\String Assignment\obj\Debug\String Assignment.pdb

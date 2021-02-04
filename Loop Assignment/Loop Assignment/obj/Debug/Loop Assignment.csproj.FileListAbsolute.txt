@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.pdb

@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.pdb
