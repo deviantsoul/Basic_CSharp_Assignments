@@ -1,0 +1,6 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 3 - Loop operator\Console App Assignment Part 3 - Loop operator\bin\Debug\Console App Assignment Part 3 - Loop operator.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 3 - Loop operator\Console App Assignment Part 3 - Loop operator\bin\Debug\Console App Assignment Part 3 - Loop operator.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 3 - Loop operator\Console App Assignment Part 3 - Loop operator\bin\Debug\Console App Assignment Part 3 - Loop operator.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 3 - Loop operator\Console App Assignment Part 3 - Loop operator\obj\Debug\Console App Assignment Part 3 - Loop operator.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 3 - Loop operator\Console App Assignment Part 3 - Loop operator\obj\Debug\Console App Assignment Part 3 - Loop operator.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 3 - Loop operator\Console App Assignment Part 3 - Loop operator\obj\Debug\Console App Assignment Part 3 - Loop operator.pdb

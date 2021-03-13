@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 6\Console App Assignment Part 6\bin\Debug\Console App Assignment Part 6.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 6\Console App Assignment Part 6\bin\Debug\Console App Assignment Part 6.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 6\Console App Assignment Part 6\bin\Debug\Console App Assignment Part 6.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 6\Console App Assignment Part 6\obj\Debug\Console App Assignment Part 6.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 6\Console App Assignment Part 6\obj\Debug\Console App Assignment Part 6.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 6\Console App Assignment Part 6\obj\Debug\Console App Assignment Part 6.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Console App Assignment Part 6\Console App Assignment Part 6\obj\Debug\Console App Assignment Part 6.pdb

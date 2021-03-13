@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console App Assignment Part 3 - Loop operator", "Console App Assignment Part 3 - Loop operator\Console App Assignment Part 3 - Loop operator.csproj", "{3598859A-E0EF-4A9A-8ABC-EA571810977A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3598859A-E0EF-4A9A-8ABC-EA571810977A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3598859A-E0EF-4A9A-8ABC-EA571810977A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3598859A-E0EF-4A9A-8ABC-EA571810977A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3598859A-E0EF-4A9A-8ABC-EA571810977A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {207E8CFB-819D-4115-A11A-7AEECCD7C9D0}
+	EndGlobalSection
+EndGlobal
