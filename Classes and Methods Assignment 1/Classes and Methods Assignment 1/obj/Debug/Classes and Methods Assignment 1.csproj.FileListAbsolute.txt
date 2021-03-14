@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Methods Assignment 1\Classes and Methods Assignment 1\bin\Debug\Classes and Methods Assignment 1.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Methods Assignment 1\Classes and Methods Assignment 1\bin\Debug\Classes and Methods Assignment 1.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Methods Assignment 1\Classes and Methods Assignment 1\bin\Debug\Classes and Methods Assignment 1.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Methods Assignment 1\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Methods Assignment 1\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Methods Assignment 1\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Methods Assignment 1\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.pdb
