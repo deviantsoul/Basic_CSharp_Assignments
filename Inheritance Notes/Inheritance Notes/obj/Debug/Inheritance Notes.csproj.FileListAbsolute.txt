@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Inheritance Notes\Inheritance Notes\obj\Debug\Inheritance Notes.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Inheritance Notes\Inheritance Notes\obj\Debug\Inheritance Notes.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Inheritance Notes\Inheritance Notes\bin\Debug\Inheritance Notes.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Inheritance Notes\Inheritance Notes\bin\Debug\Inheritance Notes.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Inheritance Notes\Inheritance Notes\bin\Debug\Inheritance Notes.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Inheritance Notes\Inheritance Notes\obj\Debug\Inheritance Notes.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Inheritance Notes\Inheritance Notes\obj\Debug\Inheritance Notes.pdb

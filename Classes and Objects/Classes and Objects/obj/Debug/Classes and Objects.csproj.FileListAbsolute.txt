@@ -1,7 +1,0 @@
-C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Objects\Classes and Objects\bin\Debug\Classes and Objects.exe.config
-C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Objects\Classes and Objects\bin\Debug\Classes and Objects.exe
-C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Objects\Classes and Objects\bin\Debug\Classes and Objects.pdb
-C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Objects\Classes and Objects\obj\Debug\Classes and Objects.csprojAssemblyReference.cache
-C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Objects\Classes and Objects\obj\Debug\Classes and Objects.csproj.CoreCompileInputs.cache
-C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Objects\Classes and Objects\obj\Debug\Classes and Objects.exe
-C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Classes and Objects\Classes and Objects\obj\Debug\Classes and Objects.pdb
