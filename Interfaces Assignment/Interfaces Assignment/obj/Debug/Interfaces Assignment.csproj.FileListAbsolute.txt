@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Interfaces Assignment\Interfaces Assignment\obj\Debug\Interfaces Assignment.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Interfaces Assignment\Interfaces Assignment\obj\Debug\Interfaces Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Interfaces Assignment\Interfaces Assignment\bin\Debug\Interfaces Assignment.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Interfaces Assignment\Interfaces Assignment\bin\Debug\Interfaces Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Interfaces Assignment\Interfaces Assignment\bin\Debug\Interfaces Assignment.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Interfaces Assignment\Interfaces Assignment\obj\Debug\Interfaces Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Interfaces Assignment\Interfaces Assignment\obj\Debug\Interfaces Assignment.pdb

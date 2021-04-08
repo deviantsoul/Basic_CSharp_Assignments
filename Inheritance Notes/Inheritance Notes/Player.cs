@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Inheritance_Notes
 {
-    class Player
+    public class Player
     {
         public List<Card> Hand { get; set; }
         public int Balance { get; set; }
