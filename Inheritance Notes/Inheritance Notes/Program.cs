@@ -13,11 +13,26 @@ namespace Inheritance_Notes
             //inherit the game class to specific game like TwentyOne
             TwentyOneGame game = new TwentyOneGame();
 
+            //Polymorphism is the ability of the class to morph into its inherited class that gives certain advantages
+            //Game game = new TwentyOneGame(); <---sample polymorphism in case there's more than 1 game
+
             //another way to initialize object
             game.Players = new List<string>() { "Hans", "Paisely", "Laura" };
             game.Listplayers();
-            game.Play();
+            //game.Play();
             Console.ReadLine();
+
+            //Deck deck = new Deck();
+            //deck.Shuffle(19);
+
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+
+            //Console.WriteLine(deck.Cards.Count);
+
+            //Console.ReadLine();
         }
     }
 }

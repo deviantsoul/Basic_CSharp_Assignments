@@ -8,9 +8,15 @@ namespace Inheritance_Notes
 {
     public class TwentyOneGame : Game
     {
-        public void Play()
+        public override void Play()
         {
             throw new NotImplementedException(); //use this if you have no implementation yet or specific play function
+        }
+
+        public override void Listplayers()
+        {
+            Console.WriteLine("21 Players: ");
+            base.Listplayers();
         }
     }
 }

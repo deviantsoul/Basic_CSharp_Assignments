@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 
 namespace Inheritance_Notes
 {
-    public class Game
+    public abstract class Game
     {
         //shortcut prop press tab tab
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void Listplayers()
+        public abstract void Play();
+
+        //virtual has implementations but can be overridden
+        public virtual void Listplayers()
         {
             foreach (string player in Players)
             {
