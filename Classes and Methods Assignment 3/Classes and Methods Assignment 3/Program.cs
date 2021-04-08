@@ -16,13 +16,11 @@ namespace Classes_and_Methods_Assignment_3
             Console.WriteLine("Please press any key to continue...");
             Console.ReadKey();
 
-            
-
-            n.Sample(x: 0, y: 0 );
-            Console.ReadKey();
+            n.Sample(x: 1 + 1, y: 3);
+            Console.ReadLine();
             
         }
 
-
+        
     }
 }

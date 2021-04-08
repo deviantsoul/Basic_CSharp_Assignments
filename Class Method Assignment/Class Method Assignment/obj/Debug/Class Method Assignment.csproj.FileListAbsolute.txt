@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Class Method Assignment\Class Method Assignment\obj\Debug\Class Method Assignment.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Class Method Assignment\Class Method Assignment\obj\Debug\Class Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Class Method Assignment\Class Method Assignment\bin\Debug\Class Method Assignment.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Class Method Assignment\Class Method Assignment\bin\Debug\Class Method Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Class Method Assignment\Class Method Assignment\bin\Debug\Class Method Assignment.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Class Method Assignment\Class Method Assignment\obj\Debug\Class Method Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Class Method Assignment\Class Method Assignment\obj\Debug\Class Method Assignment.pdb
