@@ -12,5 +12,19 @@ namespace Inheritance_Notes
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
+
+        //way to combine to objects overloading the operator
+        //polymorphism at work
+        public static Game operator+ (Game game, Player player)
+        {
+            game.Players.Add(player);
+            return game;
+        }
+
+        public static Game operator- (Game game, Player player)
+        {
+            game.Players.Remove(player);
+            return game;
+        }
     }
 }

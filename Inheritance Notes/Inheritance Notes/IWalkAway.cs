@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Inheritance_Notes
 {
-    interface IWalkAway
+    interface IWalkAway //<--naming convention should always start with capital I
     {
         void WalkAway(Player player);
     }

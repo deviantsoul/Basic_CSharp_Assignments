@@ -9,7 +9,7 @@ namespace Inheritance_Notes
     public abstract class Game
     {
         //shortcut prop press tab tab
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -18,9 +18,9 @@ namespace Inheritance_Notes
         //virtual has implementations but can be overridden
         public virtual void Listplayers()
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
     }
