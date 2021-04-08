@@ -8,6 +8,7 @@ namespace Inheritance_Notes
 {
     public class Game
     {
+        //shortcut prop press tab tab
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
