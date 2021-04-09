@@ -39,8 +39,20 @@ namespace Inheritance_Notes
             //}
 
             //or use LAMBDA
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
 
-            int count = deck.Cards.Count(x => x.Face == Face.Ace);
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+
+            //foreach (Card card in newList)
+            //{
+            //    Console.WriteLine(card.Face);
+            //}
+
+            List<int> numberList = new List<int>() { 1, 223, 2, 4, 512 };
+            int sum = numberList.Sum();
+
+            Console.WriteLine(sum);
+
 
             //Console.WriteLine(counter);
 
