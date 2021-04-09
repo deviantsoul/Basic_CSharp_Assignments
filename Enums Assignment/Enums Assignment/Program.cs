@@ -22,7 +22,7 @@ namespace Enums_Assignment
 
                 if (Enum.TryParse<OneWeek.DaysOfTheWeek>(test, out day))
                 {
-                    Console.WriteLine("You are right! Today is  " + test);
+                    Console.WriteLine("You are right! Today is  " + test + "!");
                 }
 
                 else

@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Structs Assignment\Structs Assignment\bin\Debug\Structs Assignment.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Structs Assignment\Structs Assignment\bin\Debug\Structs Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Structs Assignment\Structs Assignment\bin\Debug\Structs Assignment.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Structs Assignment\Structs Assignment\obj\Debug\Structs Assignment.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Structs Assignment\Structs Assignment\obj\Debug\Structs Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Structs Assignment\Structs Assignment\obj\Debug\Structs Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Structs Assignment\Structs Assignment\obj\Debug\Structs Assignment.pdb
