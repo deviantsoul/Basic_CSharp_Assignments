@@ -10,6 +10,7 @@ namespace Inheritance_Notes
     {
         static void Main(string[] args)
         {
+            //class is a reference type and struct is a value type
             //inherit the game class to specific game like TwentyOne
             //TwentyOneGame game = new TwentyOneGame();
 
@@ -20,10 +21,28 @@ namespace Inheritance_Notes
             //game.Players = new List<string>() { "Hans", "Paisely", "Laura" };
             //game.Listplayers();
             ////game.Play();
-            //Console.ReadLine();
+            //Console.ReadLine();          
+
+            
 
             Deck deck = new Deck();
             deck.Shuffle(19);
+
+            ////in order to count all Aces in Card
+            //int counter = 0;
+            //foreach (Card card in deck.Cards)
+            //{
+            //    if (card.Face == Face.Ace)
+            //    {
+            //        counter++;
+            //    }
+            //}
+
+            //or use LAMBDA
+
+            int count = deck.Cards.Count(x => x.Face == Face.Ace);
+
+            //Console.WriteLine(counter);
 
             foreach (Card card in deck.Cards)
             {
