@@ -22,31 +22,31 @@ namespace Inheritance_Notes
             ////game.Play();
             //Console.ReadLine();
 
-            //Deck deck = new Deck();
-            //deck.Shuffle(19);
+            Deck deck = new Deck();
+            deck.Shuffle(19);
 
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
 
-            //Console.WriteLine(deck.Cards.Count);
-
-            //Console.ReadLine();
-
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>(); //<---- instantiate first before using the operator overload
-            Player player = new Player();
-            player.Name = "Paisely";
-            //long way to do operator overload
-            //game = game + player;
-            //game = game - player;
-            game += player;
-            game -= player;
-
-            game.Listplayers();
+            Console.WriteLine(deck.Cards.Count);
 
             Console.ReadLine();
+
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>(); //<---- instantiate first before using the operator overload
+            //Player player = new Player();
+            //player.Name = "Paisely";
+            ////long way to do operator overload
+            ////game = game + player;
+            ////game = game - player;
+            //game += player;
+            //game -= player; //<--removes it again
+
+            //game.Listplayers();
+
+            //Console.ReadLine();
 
         }
     }

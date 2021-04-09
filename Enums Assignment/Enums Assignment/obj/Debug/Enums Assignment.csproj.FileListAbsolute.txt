@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.pdb
