@@ -8,6 +8,10 @@ namespace Black_Jack_Game_Assignment
 {
     public class Player
     {
+        //This will automatically put 100 as balance
+        //public Player(string name) : this(name, 100)
+        //{
+        //}
         public Player (string name, int beginningBalance)
         {
             Hand = new List<Card>();
@@ -20,7 +24,7 @@ namespace Black_Jack_Game_Assignment
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
-
+        public Guid Id { get; set; }
         public bool Bet (int amount)
         {
             if ( Balance - amount < 0)

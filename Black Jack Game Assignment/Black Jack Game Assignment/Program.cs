@@ -26,6 +26,11 @@ namespace Black_Jack_Game_Assignment
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya" || answer == "yizz" || answer == "ye")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);                    
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
