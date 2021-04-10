@@ -21,9 +21,7 @@ namespace Inheritance_Notes
             //game.Players = new List<string>() { "Hans", "Paisely", "Laura" };
             //game.Listplayers();
             ////game.Play();
-            //Console.ReadLine();          
-
-            
+            //Console.ReadLine();     
 
             Deck deck = new Deck();
             deck.Shuffle(19);
@@ -55,7 +53,7 @@ namespace Inheritance_Notes
 
 
             //Console.WriteLine(counter);
-
+            
             foreach (Card card in deck.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);

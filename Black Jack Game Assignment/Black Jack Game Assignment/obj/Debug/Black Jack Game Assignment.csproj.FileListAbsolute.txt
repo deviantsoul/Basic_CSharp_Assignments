@@ -1,0 +1,7 @@
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Black Jack Game Assignment\Black Jack Game Assignment\obj\Debug\Black Jack Game Assignment.csprojAssemblyReference.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Black Jack Game Assignment\Black Jack Game Assignment\obj\Debug\Black Jack Game Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Black Jack Game Assignment\Black Jack Game Assignment\bin\Debug\Black Jack Game Assignment.exe.config
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Black Jack Game Assignment\Black Jack Game Assignment\bin\Debug\Black Jack Game Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Black Jack Game Assignment\Black Jack Game Assignment\bin\Debug\Black Jack Game Assignment.pdb
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Black Jack Game Assignment\Black Jack Game Assignment\obj\Debug\Black Jack Game Assignment.exe
+C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Black Jack Game Assignment\Black Jack Game Assignment\obj\Debug\Black Jack Game Assignment.pdb
