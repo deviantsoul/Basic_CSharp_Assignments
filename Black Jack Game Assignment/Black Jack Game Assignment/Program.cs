@@ -18,8 +18,26 @@ namespace Black_Jack_Game_Assignment
             Console.WriteLine("Welcome to the NeverEnding Casino. And to whom do I owe the pleasure?");
             string playerName = Console.ReadLine();
 
-            Console.WriteLine("And how much do you have today?");
-            int bank = Convert.ToInt32(Console.ReadLine());
+            //exception handling the invalid amount
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("And how much moola you have today?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer) Console.WriteLine("Please enter digits only with no decimals.");
+                if (bank < 0)
+                {
+                    Console.WriteLine("Bye bye. You don't have enough money to play.");
+                    Console.ReadLine();
+                    return;
+                }
+            }
+            
+
+            ///Removed because of exception handling
+            ///Console.WriteLine("And how much moola you have today?");
+            ///int bank = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("{0}. You can only play game of 21 right now because of your reputation. Would like to? ", playerName);
             string answer = Console.ReadLine().ToLower();
@@ -36,7 +54,23 @@ namespace Black_Jack_Game_Assignment
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("Someone will be with you shortly. Please stay where you are!");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occured. Please contact your System Administrator.");
+                        Console.ReadLine();
+                        return;
+                    }
+                    
                 }
 
                 game -= player;

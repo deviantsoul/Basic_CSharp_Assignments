@@ -22,11 +22,27 @@ namespace Black_Jack_Game_Assignment
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
-            Console.WriteLine("Place your bet!");
+
+            //Removed due to exception handling
+            //Console.WriteLine("Place your bet!");
 
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                //added exception handling
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("Place your bet!");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("Please enter digits only with no decimals.");
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException();
+                }
+
+                //int bet = Convert.ToInt32(Console.ReadLine()); <--removed due to exception handling
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {
