@@ -22,6 +22,7 @@ namespace Black_Jack_Game_Assignment
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"C:\Users\ucabh\Desktop\Basic_CSharp_Assignments\Logs\log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0);
