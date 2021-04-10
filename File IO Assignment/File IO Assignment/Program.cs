@@ -17,8 +17,9 @@ namespace File_IO_Assignment
             string text = Convert.ToString(input);
             File.WriteAllText("C:\\Users\\ucabh\\Desktop\\Basic_CSharp_Assignments\\Logs\\log.txt", text);
 
-            Console.WriteLine("Here is your report: " + text);            
-            text = File.ReadAllText("C:\\Users\\ucabh\\Desktop\\Basic_CSharp_Assignments\\Logs\\log.txt");
+                       
+            string readText = File.ReadAllText("C:\\Users\\ucabh\\Desktop\\Basic_CSharp_Assignments\\Logs\\log.txt");
+            Console.WriteLine("Here is your report: " + readText);
             Console.ReadLine();
 
             Console.WriteLine("Thanks. This will explose should you or should you not accept this feedback. Bye bye.");
